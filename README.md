@@ -16,7 +16,6 @@ The project achieved first place at the provincial level for its integrated hard
 
 ## Project Information
 
-- **Year:** 2021
 - **Competition:** National Research Centers Software Competition
 - **Category:** Hardware Programming
 - **Platform:** Windows
