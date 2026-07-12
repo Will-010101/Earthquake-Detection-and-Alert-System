@@ -8,7 +8,7 @@ The project was designed to simulate earthquake detection, monitor seismic activ
 
 ## Achievement
 
-🏆 **1st Place – Provincial Level (2021)**  
+🏆 **1st Place – Provincial Level**  
 **National Research Centers Software Competition**  
 **Category:** Hardware Programming
 
